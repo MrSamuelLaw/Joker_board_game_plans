@@ -1,0 +1,19 @@
+PROGRAM NUMBER : 0001 
+PROGRAM FILENAME : drilling 
+PROGRAMMER :   
+MACHINE : SHOPBOT ROUTER 
+CONTROLLER : OPENSBP 
+POSTED DATE & TIME : 3 -4 -2020  -  16:49:44 
+
+OPERATION DESC. : 
+
+MATERIAL : BIRCH_PLYWOOD 
+STOCK SIZE: 4. x 14. x .75
+
+Tool    | Tool             |  Tool   |  Corner   |  Tool       |  Max Z   | Tool    | Tool         
+Station | Type             |  Dia    |  Radius   |  Protrusion |  Depth   | Max RPM | Description  
+-----------------------------------------------------------------------------------------------------
+T01     | DRILL            |  0.1250  |  0.0000   |  1.0000     |  0.0000  |  14248. | 
+
+TOTAL TOOLS: 1 
+
