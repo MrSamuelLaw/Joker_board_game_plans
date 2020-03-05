@@ -310,7 +310,7 @@ MZ,0.
 JZ,1.75
 JZ,1.75
 'New Path
-'Toolpath Name = drill2
+'Toolpath Name = drills
 J2,1.,1.514706
 JZ,1.75
 JZ,.55
